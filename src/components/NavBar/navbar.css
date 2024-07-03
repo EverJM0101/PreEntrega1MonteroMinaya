@@ -1,0 +1,13 @@
+.img-logo {
+    width: 60px;
+    padding: 0.5em 0;
+    margin-right: 1em;
+}
+
+.link-boton{
+    border-bottom: 1px solid #FFF;
+}
+
+.link-boton:hover{
+    border-bottom: 1px solid #D1D1D1D1;
+}
